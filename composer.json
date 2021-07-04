@@ -58,7 +58,7 @@
     },
     "require-prod": {
         "doctrine/doctrine-fixtures-bundle": "^3.4",
-        "doctrine/doctrine-migrations-bundle": "^3.1",
+        "doctrine/doctrine-migrations-bundle": "^3.1"
     },
     "config": {
         "optimize-autoloader": true,
