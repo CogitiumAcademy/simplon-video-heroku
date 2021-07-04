@@ -15,7 +15,7 @@ class AppFixtures extends Fixture
 
         for ($i = 0; $i < 20; $i++) {
             $video = new Video();
-            $video->setName('Vidéo ' . $i);
+            $video->setName('La vidéo ' . $i);
             $video->setSlug('slug-video-' . $i);
             $video->setImage('https://www.2le.net/wp-inside/uploads/2019/12/symfony-5-nouveautes.jpg');
             $video->setUrl('https://www.youtube.com/watch?v=DM0kqsDH4qA');
